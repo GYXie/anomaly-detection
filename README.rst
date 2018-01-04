@@ -11,5 +11,6 @@ Installation
     $ pip install anomaly-detection
 
 
-Usage
------
+TODO
+----
+* add examples
